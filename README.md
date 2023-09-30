@@ -1,2 +1,2 @@
 # sport-shop
-https://shadi-sportshop.netlify.app
+https://shadi-sportshop.surge.sh/
